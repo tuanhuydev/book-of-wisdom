@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/book-of-wisdom.iml" filepath="$PROJECT_DIR$/.idea/book-of-wisdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-mastery.iml" filepath="$PROJECT_DIR$/kotlin-mastery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-mastery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-mastery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-mastery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-mastery.test.iml" />
+    </modules>
+  </component>
+</project>
