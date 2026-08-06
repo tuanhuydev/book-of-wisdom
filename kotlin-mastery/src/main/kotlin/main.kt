@@ -1,8 +1,10 @@
-import ex02.runExercise14
-import ex03.runExercise15
+import ex05.UserSession
+import ex05.demo
+import ex05.greet
+
 
 fun main(args: Array<String>) {
-    println("Running...")
-//    runExercise14()
-    runExercise15()
+    val userSession = UserSession(null)
+    print(greet(userSession))
+    demo()
 }
