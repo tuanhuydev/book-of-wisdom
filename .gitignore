@@ -2,3 +2,11 @@
 node_modules
 
 # Build
+# Gradle caches and generated outputs
+.gradle/
+**/.gradle/
+build/
+**/build/
+
+# OS
+.DS_Store
