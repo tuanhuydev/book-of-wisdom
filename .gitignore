@@ -1,6 +1,7 @@
 # Dependencies
 node_modules
 
+# Build
 # Gradle caches and generated outputs
 .gradle/
 **/.gradle/
